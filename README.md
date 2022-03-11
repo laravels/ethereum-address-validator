@@ -14,7 +14,7 @@ Class that verifies if [Ethereum](https://www.ethereum.org/) address is properly
 Use composer:
 
 ```bash
-composer require psychob/ethereum-address-validator
+composer require laravels/ethereum-address-validator
 ```
 
 ## Usage
